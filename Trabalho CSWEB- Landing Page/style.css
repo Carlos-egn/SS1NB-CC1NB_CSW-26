@@ -1,0 +1,315 @@
+#home {
+    background-color: peachpuff;
+}
+
+.contato {
+    background-color: peachpuff;
+}
+
+.servicos {
+    background-color: peachpuff;
+}
+
+.github {
+    background-color: peachpuff;
+}
+
+.curriculo {
+    background-color: peachpuff;
+}
+
+#home nav {
+    background-color: white;
+    max-width: 380px;
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+#home td {
+    padding: 12px;
+}
+
+#home nav {
+    border: 2px solid black;
+}
+
+#home div.text {
+    background-color: white;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#home div.text {
+    border: 2px solid black;
+}
+
+#home div.imagem {
+    border: 2px solid black;
+
+}
+
+#home div.imagem {
+    background-color: white;
+    width: 20%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contato nav {
+    background-color: white;
+    max-width: 380px;
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.contato nav {
+    border: 2px solid black;
+}
+
+
+.contato div {
+    background-color: white;
+    width: 20%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contato div {
+    border: 2px solid black;
+}
+
+.contato h2 {
+    background-color: white;
+    width: 20%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contato h2 {
+    border: 2px solid black;
+}
+
+.contato p {
+    background-color: white;
+    width: 20%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contato p {
+    border: 2px solid black;
+}
+
+.contato td {
+    padding: 12px;
+}
+
+.servicos nav {
+    background-color: white;
+    max-width: 380px;
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.servicos nav {
+    border: 2px solid black;
+}
+
+.servicos div {
+    background-color: white;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.servicos div {
+    border: 2px solid black;
+}
+
+.servicos td {
+    padding: 12px;
+}
+
+
+.curriculo nav {
+    background-color: white;
+    max-width: 380px;
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+
+.curriculo nav {
+    border: 2px solid black;
+}
+
+
+.curriculo div {
+    background-color: white;
+    width: 30%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10 px rgba(0, 0, 0, 0.1);
+}
+
+.curriculo div {
+    border: 2px solid black;
+}
+
+.curriculo td {
+    padding: 12px;
+}
+
+.github nav {
+    background-color: white;
+    max-width: 380px;
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.github nav {
+    border: 2px solid black;
+}
+
+.github h3 {
+    background-color: white;
+    width: 20%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.github h3 {
+    border: 2px solid black;
+}
+
+.github td {
+    padding: 12px;
+}
+
+
+.github p {
+    background-color: white;
+
+    width: 40%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.github p {
+    border: 2px solid black;
+}
+
+.github img {
+    border: 2px solid black;
+}
+
+.github audio {
+    border: 2px solid black;
+}
+
+.github audio {
+    background-color: white;
+    width: 20%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
