@@ -1,0 +1,17 @@
+
+
+ a::backdrop { 
+  content: '*';
+}
+
+a::after {
+  content: 'Text';
+}
+
+button {
+  background-color: #007bff;
+  transition: background-color 0.2s ease;
+}
+button:hover {
+  background-color: #28b995;
+}
