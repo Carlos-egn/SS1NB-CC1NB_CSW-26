@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 4</title>
+</head>
+
+<body>
+    <h1>Principais formatações</h1>
+    <h2>Negrito/Destaque</h2>
+    <p>Na frase temos uma <b>parte do texto em negrito</b> usando a tag B (não semântica)</p>
+    <p>Na frase temos uma <strong>parte do texto tem negrito</strong> usando a tag strong (com semântica)</p>
+    <h2>Itálico/Ênfase</h2>
+    <p>Nesta frase vamos entrar com uma palavra em <i>itálico</i> usando a tag i (não semântica)</p>
+    <p>Nesta frase vamos entrar com uma palavra em <em>itálico</em> usando a tag EM (com semântica)</p>
+    <h2>Texto Marcador</h2>
+    <p>Aqui vamos usar um texto com destaque <mark style="background-color: greenyellow;">de marcador de texto</mark>
+        usando mark</p>
+    <p>Aqui vamos usar um texto com destaque <mark style="background-color: yellow;">de marcador de texto</mark> usando
+        mark</p>
+    <h2>Texto grande e pequeno</h2>
+    <p>Estamos trabalhando aqui com um <span style="font-size: large;">texto grande</span> e um <small>texto
+            pequeno</small> nesta frase</p>
+    <h2>Texto deletado</h2>
+    <p>Neste parágrafo vamos trabalhar com um texto <del>que foi excluído</del> da frase (forma semântica)</p>
+    <p>A tag <strong>strike</strong> não pode ser utilizada no html mais</p>
+    <h2>Texto inserido</h2>
+    <p>Nesta frase vamos demonstrar como <ins>destacar um texto inserido</ins> na frase de forma semântica</p>
+    <p>Nesta frase vamos demonstrar como <u>destacar um texto inserido</u> na frase de forma não semântica</p>
+    <h2>Texto sobrescrito</h2>
+    <p>Vamos demonstrar uma fórmula da equação do segundo grau ax<sup>2</sup>+ bx + c = 0 usando a tag sup</p>
+    <h2>Texto subescrito</h2>
+    <p>Vamos demonstrar o texto subescrito com a fórmula da água H<sub>2</sub>O - usando a tag sub</p>
+    <h2>Trecho de código fonte</h2>
+    <p>Neste exemplo vou demonstrar um trecho de código</p>
+    <p>Inserindo o comando <code>document.getElementById('edtcodigo')</code> que é um comando em javascript</p>
+    <p>Inserindo um longo código em pyton:</p>
+    <pre><code>
+import random
+
+participantes = ["Ana", "Bruno", "Carlos", "Diana"]
+sorteado = random.choice(participantes)
+
+print(f"O ganhador do sorteio é: {sorteado}")
+     </code></pre>
+    <h2>Citações (quotation) simples</h2>
+    <p>segundo Steve Jobs <q>A tecnologia move o mundo</q></p>
+    <h2>Citações completas (livros)</h2>
+    <p>Segundo Sandra Kussunoki no seu livro, A dança do ventre:</p>
+    <blockquote> Dados existentes sobre intervenções cirúrgicas nos corpos contemporâneos visando à obtenção de
+        um corpo mais próximo do padrão estético, tais como lipoaspiração, próteses de silicone, entre outras,
+        comprovam essa busca obscessiva pelo ideal de perfeição, que é baseado principalmente na magreza.</blockquote>
+    <h2>Abreviações</h2>
+    <p>Estamos estudando <abbr title="title">HTML</abbr> e <abbr title="title">CSS</abbr></p>
+    <h2>Texto Invertido</h2>
+    <p>Estou estudando HTML</p>
+    <bdo dir="rtl"> Estou estudando HTML</bdo>
+</body>
+
+</html>
