@@ -1,19 +1,19 @@
 body {
-  background-image: linear-gradient(to left, black, white);
-  font-family: Arial, Helvetica, sans-serif;
+  background-image: radial-gradient(white, black);
+  font-family: 'Times New Roman', Times, serif
 }
 
-#conteudo {
+.conteudo {
   background-color: white;
   text-align: center;
   width: 100px;
-  border-radius: 10px;
+  border-radius: 30px;
   margin: 70px auto;
   padding: 20px;
   box-shadow: 0 8px 20px rgb(0, 0, 4);
 }
 
-#conteudo:hover {
+.conteudo:hover {
   background-color: rgb(73, 63, 63);
 }
 
@@ -21,7 +21,7 @@ body {
   background-color: white;
   text-align: center;
   width: 100px;
-  border-radius: 10px;
+  border-radius: 30px;
   margin: 70px auto;
   padding: 20px;
   box-shadow: 0 8px 20px rgb(0, 0, 4);
@@ -36,7 +36,7 @@ body {
   background-color: white;
   text-align: center;
   margin: 70px;
-  border-radius: 10px;
+  border-radius: 30px;
   padding: 40px;
   box-shadow: 0 8px 20px rgb(0, 0, 4);
 }
