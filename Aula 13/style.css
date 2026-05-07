@@ -1,16 +1,7 @@
 #body {
-    background: radial-gradient(white, black);
+    background: radial-gradient(rgb(156, 241, 177), rgb(25, 88, 36));
 }
 
-.aula {
-    background-color: white;
-    width: 700px;
-    border-radius: 10px;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 70px auto;
-    padding: 20px;
-}
 
 .titulo {
     background-color: white;
@@ -22,23 +13,19 @@
     padding: 20px;
 }
 
-.texto1 {
-    background-color: white;
-    width: 700px;
+.conteiner {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    background-color: rgb(255, 255, 255);   
+}
+
+.texto {
+    background-color: rgb(209, 4, 4);
+    width: 300px;
     border-radius: 10px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     margin: 70px auto;
     padding: 20px;
 }
-
-.texto2 {
-    background-color: white;
-    width: 700px;
-    border-radius: 10px;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 70px auto;
-    padding: 20px;
-}
-
